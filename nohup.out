@@ -1,0 +1,3 @@
+kf.kio.workers.file: copy() QUrl("file:///home/monke/Downloads/OneDrive_1_15-11-2023.zip") to QUrl("file:///hdd0/0warm_data/studia/mgr/2semestr/scala/wyklady/OneDrive_1_15-11-2023.zip") mode= 420
+kf.kio.workers.file: the file doesn't have any xattr
+Cannot initialize model with data QJsonObject(). missing: QJsonValue(string, "urls")
